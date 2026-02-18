@@ -23,4 +23,4 @@ A performant and scalable backend for a restaurant system, showcasing API design
 A mobile application leveraging computer vision for intelligent wardrobe organization and outfit recommendations.
 
 ## 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gulmix?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gulmix?cardType=octocat&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
