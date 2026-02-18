@@ -1,14 +1,26 @@
 # Hi, I'm Egor 👋
 
 ### Software Engineer | Golang Backend Developer  <br/>
-I am a backend engineer specializing in Go, with experience across both system modernization and greenfield
-development. My key strength is implementing scalable solutions, such as rewriting PHP microservices in Go and
-migrating databases to Redis. I have also built a complete event-driven backend using PostgreSQL and Kafka from the
-ground up. This hands-on work has sharpened my skills in performance optimization, data synchronization, and
-distributed system design.Beyond technical execution, I focus on writing clean, maintainable code and ensuring
-system reliability. I thrive in environments where I can take ownership of meaningful features and contribute to
-architectural decisions. With a proactive mindset and a commitment to best practices, I am ready to integrate quickly
-and deliver tangible value on your backend engineering team.
+I'm a backend engineer specializing in Go, focused on building scalable and reliable systems. My experience includes leading the rewrite of legacy PHP microservices into performant Go services, which significantly improved response times. I've built complete event-driven architectures from the ground up using PostgreSQL and Kafka, and I have a strong focus on writing clean, maintainable code. I'm ready to take ownership of complex features and contribute to architectural decisions from day one.
+
+## 🛠️ Tech Stack
+*   **Languages:** Go, С++, Python, JavaScript
+*   **Frameworks/Libraries:** Gin, FastAPI, Django, React
+*   **Databases:** PostgreSQL, MongoDB, Redis, ClickHouse
+*   **Tools & Platforms:** Docker, Kafka, Debezium, RabbitMQ, Kubernetes, Prometheus, Grafana
+
+## Projects
+* Bank (Go, PostgreSQL, Docker)
+A secure, containerized banking application demonstrating transactional integrity and clean architecture. 
+
+* Debezium-API (Go)
+A high-level client library simplifying the management of Debezium CDC connectors, making data streaming setup more accessible. 
+
+* Restaurant Management API (Go, Gin, MongoDB)
+A performant and scalable backend for a restaurant system, showcasing API design and NoSQL data handling. 
+
+* Wardrobe AI (Dart, Flutter)
+A mobile application leveraging computer vision for intelligent wardrobe organization and outfit recommendations.
 
 # 📊 GitHub Stats:
-![Alt](https://repobeats.axiom.co/api/embed/1eaffe2f5ac335388b4bbf052fdfd31044f1f1dc.svg "Repobeats analytics image")
+[![Gulmix's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulmix)](https://github.com/anuraghazra/github-readme-stats)
