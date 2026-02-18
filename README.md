@@ -22,5 +22,5 @@ A performant and scalable backend for a restaurant system, showcasing API design
 * Wardrobe AI (Dart, Flutter)
 A mobile application leveraging computer vision for intelligent wardrobe organization and outfit recommendations.
 
-# 📊 GitHub Stats:
-[![Gulmix's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulmix)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats:
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gulmix?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
